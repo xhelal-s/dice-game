@@ -1,2 +1,2 @@
 # Dice-game
-Recreated and costumized the pig-game from Jonas Schmedtmann's course.
+Recreated and costumized the dice-game from Jonas Schmedtmann's course.
